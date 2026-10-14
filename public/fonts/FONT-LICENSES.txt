@@ -1,0 +1,26 @@
+NotoSans-Regular.ttf
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)
+
+NotoSans-Regular.ttf
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL
+
+NotoSans-Regular.ttf
+https://scripts.sil.org/OFL
+
+NotoSans-Bold.ttf
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)
+
+NotoSans-Bold.ttf
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL
+
+NotoSans-Bold.ttf
+https://scripts.sil.org/OFL
+
+NotoSerif-Italic.ttf
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)
+
+NotoSerif-Italic.ttf
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL
+
+NotoSerif-Italic.ttf
+https://scripts.sil.org/OFL

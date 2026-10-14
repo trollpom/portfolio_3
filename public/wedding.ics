@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wedding Portfolio//Anna and Mikhail//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:anna-mikhail-20270717@wedding-portfolio.local
+DTSTAMP:20261014T100000Z
+DTSTART:20270717T123000Z
+DTEND:20270717T200000Z
+SUMMARY:Свадьба Анны и Михаила — демопроек
+ т
+LOCATION:Демонстрационная усадьба «Лесной 
+ берег»
+DESCRIPTION:Демонстрационное свадебное приг
+ лашение для портфолио. Пара\, дата и пло
+ щадка вымышлены.
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
