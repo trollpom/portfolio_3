@@ -44,4 +44,4 @@ https://portfolio-3-mauve-three.vercel.app/
 
 Тесты не подтверждают доступность конкретного опубликованного сайта. В проекте сохранены материалы предыдущего режима сборки; для текущего Netlify используется Next.js.
 
-Дизайн вдохновлён [Wedding Invite](https://dribbble.com/shots/13150887-Wedding-Invite); композиция разработана самостоятельно. Перед настоящим мероприятием замените вымышленные данные и проверьте все условия. [Другие проекты](https://github.com/trollpom/My-CRM/blob/main/docs/portfolio.md).
+Дизайн вдохновлён [Wedding Invite](https://dribbble.com/shots/13150887-Wedding-Invite); композиция разработана самостоятельно. Перед настоящим мероприятием замените вымышленные данные и проверьте все условия. [Другие проекты](https://github.com/trollpom) · [Публичная CRM](https://github.com/trollpom/my_crm).
